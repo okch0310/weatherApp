@@ -1,5 +1,5 @@
 # weatherApp
-weather app
+weather app 날씨 
 
 React-native 학습 후 처음으로 만든 개인 프로젝트 입니다.
 
